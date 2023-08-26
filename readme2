@@ -1,4 +1,4 @@
-# AWS CodeBuild buildspec to build the nginx alpine image
+# AWS CodeBuild buildspec to build the nginx alpine age
 
 # This requires the following environment variables be set on the Project:
 # AWS_DEFAULT_REGION (Supplied by CodeBuild)
